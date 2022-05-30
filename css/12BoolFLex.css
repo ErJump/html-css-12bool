@@ -30,13 +30,7 @@
     /* grow - shrink - max-width */
 }
 
-.p-1{
-    padding: 10px;
-}
 
-.p-3{
-    padding: 30px;
-}
 
 .col-1 {
     flex-basis: calc((100% / 12) * 1);
@@ -589,7 +583,7 @@
 
 /* XXL */
 
-@media all and (min-width: 768px){
+@media all and (min-width: 1400px){
     
     .col-xxl-1 {
         flex-basis: calc((100% / 12) * 1);
@@ -695,3 +689,20 @@
         margin-left: calc((100% / 12) * 11);
     }
 }
+
+.t-center{
+    text-align: center;
+}
+
+.p-1{
+    padding: 10px;
+}
+
+.p-2{
+    padding: 20px;
+}
+
+.p-3{
+    padding: 30px;
+}
+

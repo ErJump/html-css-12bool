@@ -5,13 +5,18 @@
 }
 
 body{
-    background-color: lightslategray;
+    background-color: white;
 }
 
-.row{
-    background-color: lightcoral;
-}
 
 .bg-green{
     background-color: lightgreen;
+}
+
+body>*{
+    margin-bottom: 20px;
+}
+
+h2{
+    margin-bottom: 10px;
 }
