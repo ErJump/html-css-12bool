@@ -1,0 +1,17 @@
+[class*="col-"] {
+    background-color: cornflowerblue;
+    color: white;
+    border: 1px solid white;
+}
+
+body{
+    background-color: lightslategray;
+}
+
+.row{
+    background-color: lightcoral;
+}
+
+.bg-green{
+    background-color: lightgreen;
+}
