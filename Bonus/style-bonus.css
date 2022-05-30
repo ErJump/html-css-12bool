@@ -1,0 +1,37 @@
+
+.pixel{
+    height: 45px;
+    background-color: white;
+}
+
+.pixel-special{
+    height: 45px;
+    background-color: #42F7FF;
+}
+
+.pixel-container{
+    height: 45px;
+}
+
+h1{
+    margin: 40px auto;
+    text-align: center;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    border: 5px solid white;
+    display: inline-block;
+    padding: 50px;
+}
+
+body{
+    background-color: black;
+}
+
+.container-text{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.canva-container{
+    margin-top: 30px;
+}
